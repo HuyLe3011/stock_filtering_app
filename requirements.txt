@@ -8,4 +8,10 @@ datetime
 
 openpyxl
 
-re
+beautifulsoup4
+
+Pillow
+
+IPython
+
+plotly
