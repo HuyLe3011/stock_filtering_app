@@ -29,7 +29,7 @@ As a basic prototype, the script relies on hardcoded column names. The applicati
 ## ⚙️ How to Run Locally
 1. Install the required dependencies:
 ```bash
-pip install streamlit pandas numpy openpyxl
+pip install -r requirements.txt
 ```
 2. Execute the Streamlit app:
 ```bash
